@@ -6,6 +6,6 @@ print(make_dough("wheat", "water") == "dough")
 print(make_dough("x", "y") == "none")
 
 # Test 3 - bake_dough() input = dough expected output = naan
-
+print(bake_dough("dough") == "naan")
 
 #
