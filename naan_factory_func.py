@@ -3,3 +3,6 @@ def make_dough(ingredient1, ingredient2):
         return "dough"
     else:
         return "none"
+
+def bake_dough(dough):
+    return "naan"
