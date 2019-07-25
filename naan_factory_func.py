@@ -4,5 +4,15 @@ def make_dough(ingredient1, ingredient2):
     else:
         return "none"
 
+
 def bake_dough(dough):
-    return "naan"
+    if dough == "dough":
+        return "naan"
+    else:
+        return "none"
+
+def package_naan(naan):
+    if naan == "naan":
+        return "Ready to sell"
+    else:
+        return "none"

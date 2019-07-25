@@ -20,5 +20,5 @@ print("Test 5 - testing func package_naan() with input = naan expected output = 
 print(package_naan("naan") == "Ready to sell")
 
 # Test 6 - package_naan() input = x, expected output = none
-print("Test 5 - testing func package_naan() with input = x, expected output = none")
+print("Test 6 - testing func package_naan() with input = x, expected output = none")
 print(package_naan("x") == "none")
